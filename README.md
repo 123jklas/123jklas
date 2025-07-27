@@ -51,7 +51,3 @@
 - 📧 Email: minjoy0321@gmail.com  
 - 🌐 [Portfolio Website](https://123jklas.github.io)
 
----
-
-![GitHub Snake Light](https://raw.githubusercontent.com/123jklas/123jklas/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/123jklas/123jklas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)

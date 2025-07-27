@@ -37,11 +37,11 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegangkim&layout=compact" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123jklas&layout=compact" alt="Top Langs"/>
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=taegangkim" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=123jklas" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -49,4 +49,4 @@
 ### 📫 Contact
 
 - 📧 Email: minjoy0321@gmail.com  
-- 🌐 [Portfolio Website](https://taegangkim.github.io) (coming soon)
+- 🌐 [Portfolio Website](https://123jklas.github.io)

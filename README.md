@@ -40,10 +40,9 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=123jklas&show_icons=true&layout=compact" alt="Top Langs"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=123jklas&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=123jklas&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+
 
 ---
 

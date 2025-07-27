@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Taegang Kim</h1>
-<h3 align="center">UT Austin CS Student | AI/ML Engineer | Creative Technologist</h3>
+<h3 align="center">Software Engineer at UT Austin | AI/ML Engineer | Creative Technologist</h3>
 
 <p align="center">
   🧠 Passionate about AI research, generative applications, and building human-centered tools for the future.
@@ -9,8 +9,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 CS undergrad at **The University of Texas at Austin** (GPA: 3.92)  
-- 💡 Currently researching **Korean Sign Language translation using MotionGPT + SignAvatar** under Dr. Georgios Pavlakos  
+- 🎓 CS undergrad at **The University of Texas at Austin**  
+- 💡 Currently researching **Sign Language translation using MotionGPT + SignAvatar**  
 - 🏆 Multiple-time **hackathon winner** for projects combining LLMs, computer vision, and user experience  
 - 🌱 Constantly learning about **LangChain, LLM apps, RAG pipelines, and multimodal UX design**  
 - 🇰🇷 Fluent in Korean | 🌍 Based in Austin, TX  
@@ -36,12 +36,16 @@
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123jklas&layout=compact" alt="Top Langs"/>
-</p>
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=123jklas" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=123jklas&show_icons=true&layout=compact" alt="Top Langs"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=123jklas&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=123jklas&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---

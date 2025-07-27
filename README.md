@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Taegang Kim</h1>
+<h3 align="center">UT Austin CS Student | AI/ML Engineer | Creative Technologist</h3>
 
-<!--
-**123jklas/123jklas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🧠 Passionate about AI research, generative applications, and building human-centered tools for the future.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 CS undergrad at **The University of Texas at Austin** (GPA: 3.92)  
+- 💡 Currently researching **Korean Sign Language translation using MotionGPT + SignAvatar** under Dr. Georgios Pavlakos  
+- 🏆 Multiple-time **hackathon winner** for projects combining LLMs, computer vision, and user experience  
+- 🌱 Constantly learning about **LangChain, LLM apps, RAG pipelines, and multimodal UX design**  
+- 🇰🇷 Fluent in Korean | 🌍 Based in Austin, TX  
+
+---
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
+![LangChain](https://img.shields.io/badge/-LangChain-blueviolet)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegangkim&layout=compact" alt="Top Langs"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=taegangkim" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 📫 Contact
+
+- 📧 Email: minjoy0321@gmail.com  
+- 🌐 [Portfolio Website](https://taegangkim.github.io) (coming soon)

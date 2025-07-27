@@ -39,13 +39,11 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=123jklas&show_icons=true&layout=compact" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegangkim&layout=compact" alt="Top Langs"/>
 </p>
+
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=123jklas&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=123jklas&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=taegangkim" alt="GitHub Trophies"/>
 </p>
 
 ---
